@@ -26,7 +26,7 @@
         "David R. Roalf",
         "Theodore D. Satterthwaite"
     ],
-    "Name": "PennLEAD QSIPrep",
+    "Name": "PennLEAD: Penn Longitudinal Executive functioning in Adolescent Development, QSIPrep Derivatives",
     "BIDSVersion": "1.1.1",
     "PipelineDescription": {
         "Name": "qsiprep",
