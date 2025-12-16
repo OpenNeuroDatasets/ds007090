@@ -1,1 +1,0 @@
-../../../.git/annex/objects/Mx/G1/SHA256E-s3428--a5f8c08cc436cd4062b09c9f1402b5f5107779db61fc2ba24aeeb77f1250447d.b_table.txt/SHA256E-s3428--a5f8c08cc436cd4062b09c9f1402b5f5107779db61fc2ba24aeeb77f1250447d.b_table.txt

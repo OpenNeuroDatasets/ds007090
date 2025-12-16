@@ -1,1 +1,0 @@
-../../../.git/annex/objects/z5/ZM/SHA256E-s3429--c6f0997b7c797fb2b5d7bf5a24c298375c9d6ca81271511bc53ffa0ab4d40d11.b_table.txt/SHA256E-s3429--c6f0997b7c797fb2b5d7bf5a24c298375c9d6ca81271511bc53ffa0ab4d40d11.b_table.txt
