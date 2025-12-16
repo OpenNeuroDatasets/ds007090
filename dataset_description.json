@@ -46,5 +46,6 @@
         "https://doi.org/TODO: eventually a DOI for the dataset"
     ],
     "License": "CC0",
-    "Acknowledgements": ""
+    "Acknowledgements": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007090.v1.0.0"
 }
