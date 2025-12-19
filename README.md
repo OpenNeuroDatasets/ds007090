@@ -3,7 +3,7 @@
 Penn LEAD (Penn Longitudinal Executive functioning in Adolescent Development) is a data resource designed to investigate transdiagnostic executive function.
 
 This repository contains data derivatives from running QSIPrep for diffusion data. 
-We provide derivatives including ACPC-aligned structural derivatives such as brain masks and tissue segmentations, denoised and bias-corrected diffusion data with gradients and masks, and quality control metrics and figures. Additional DWI derivatives after processing with QSIRecon can be found [here](https://openneuro.org/datasets/ds006740).
+We provide derivatives including ACPC-aligned structural derivatives such as brain masks and tissue segmentations, denoised and bias-corrected diffusion data with gradients and masks, and quality control metrics and figures. Additional DWI derivatives after processing with QSIRecon can be found [here](https://openneuro.org/datasets/https://openneuro.org/datasets/ds007091).
 
 The link to the accompanying raw dataset is here: https://openneuro.org/datasets/ds007116 [accession number ds007116].
 
