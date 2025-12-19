@@ -1,1 +1,0 @@
-../../../.git/annex/objects/x1/XP/SHA256E-s3431--718c28a1c95be59bf745e1da2d12c2a715caa9550f6664f3f8b353e7485602de.b_table.txt/SHA256E-s3431--718c28a1c95be59bf745e1da2d12c2a715caa9550f6664f3f8b353e7485602de.b_table.txt
