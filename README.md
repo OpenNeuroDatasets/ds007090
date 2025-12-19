@@ -5,7 +5,7 @@ Penn LEAD (Penn Longitudinal Executive functioning in Adolescent Development) is
 This repository contains data derivatives from running QSIPrep for diffusion data. 
 We provide derivatives including ACPC-aligned structural derivatives such as brain masks and tissue segmentations, denoised and bias-corrected diffusion data with gradients and masks, and quality control metrics and figures. Additional DWI derivatives after processing with QSIRecon can be found [here](https://openneuro.org/datasets/ds006740).
 
-The link to the accompanying raw dataset is here: https://openneuro.org/datasets/ds006688 [accession number ds006688].
+The link to the accompanying raw dataset is here: https://openneuro.org/datasets/ds007116 [accession number ds007116].
 
 The Docker Hub link to QSIPrep is [here.](https://hub.docker.com/layers/pennlinc/qsiprep/1.0.0/images/sha256-ebbfe74b9d35df9fbe9873d383a5f11171b0411ae9a9098d330290884c7c853b)
 
