@@ -1,1 +1,0 @@
-../../../.git/annex/objects/fg/Mv/SHA256E-s3428--086976654963d934c6a3975ab57494c5d3d71efacd53da0c5105aca65d2f1882.b_table.txt/SHA256E-s3428--086976654963d934c6a3975ab57494c5d3d71efacd53da0c5105aca65d2f1882.b_table.txt
