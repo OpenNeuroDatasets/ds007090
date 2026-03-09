@@ -1,0 +1,10 @@
+bids_origin_file	original_volume	fsl_spec	qc_score	qc_rank	selected_for_sdc
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	0	0 1 0 0.095910	-0.9539826975020608	0	True
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	1	0 1 0 0.095910	-0.9537953006280812	1	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	34	0 1 0 0.095910	-0.9365252876205344	4	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	48	0 1 0 0.095910	-0.9390497636928775	3	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	68	0 1 0 0.095910	-0.9426463995224975	2	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	88	0 1 0 0.095910	-0.9196854147386432	6	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/dwi/sub-23582_ses-1_acq-VARIANTObliquity_run-01_dwi.nii.gz	102	0 1 0 0.095910	-0.9326261014148441	5	False
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/fmap/sub-23582_ses-1_acq-dwiVARIANTObliquity_dir-AP_run-01_epi.nii.gz	0	0 -1 0 0.095910		0	True
+/scratch/executivefunction/SLURM_13149627_223/job-13149627-223-sub-23582-ses-1/ds/inputs/data/BIDS/sub-23582/ses-1/fmap/sub-23582_ses-1_acq-dwiVARIANTObliquity_dir-PA_run-01_epi.nii.gz	0	0 1 0 0.095910	-0.8645089274515049	7	False
