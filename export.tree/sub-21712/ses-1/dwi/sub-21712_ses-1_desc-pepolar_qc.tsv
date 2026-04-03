@@ -1,0 +1,10 @@
+bids_origin_file	original_volume	fsl_spec	qc_score	qc_rank	selected_for_sdc
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	0	0 1 0 0.095910	-0.9430836867773618	0	True
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	1	0 1 0 0.095910	-0.941919623001734	1	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	34	0 1 0 0.095910	-0.9219542529453657	6	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	48	0 1 0 0.095910	-0.9252734753037127	4	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	68	0 1 0 0.095910	-0.9245563871952976	5	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	88	0 1 0 0.095910	-0.9299844465096607	2	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/dwi/sub-21712_ses-1_run-01_dwi.nii.gz	102	0 1 0 0.095910	-0.927285108985072	3	False
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/fmap/sub-21712_ses-1_acq-dwi_dir-AP_run-01_epi.nii.gz	0	0 -1 0 0.095910		0	True
+/scratch/executivefunction/SLURM_13149627_187/job-13149627-187-sub-21712-ses-1/ds/inputs/data/BIDS/sub-21712/ses-1/fmap/sub-21712_ses-1_acq-dwi_dir-PA_run-01_epi.nii.gz	0	0 1 0 0.095910	-0.8634653001425342	7	False
